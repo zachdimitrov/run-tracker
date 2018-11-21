@@ -1,0 +1,7 @@
+{ user: "heroku_fvscgxvj", account: "heroku_fvscgxvj" }
+
+To connect using the mongo shell:
+...
+To connect using a driver via the standard MongoDB URI (what's this?):
+
+mongodb://<dbuser>:<dbpassword>@ds255253.mlab.com:55253/heroku_fvscgxvj

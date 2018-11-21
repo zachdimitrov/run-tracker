@@ -1,8 +1,8 @@
 {
-  "name": "Start on Heroku: Node.js",
-  "description": "A barebones Node.js app using Express 4",
-  "repository": "https://github.com/heroku/node-js-getting-started",
-  "logo": "https://cdn.rawgit.com/heroku/node-js-getting-started/master/public/node.svg",
-  "keywords": ["node", "express", "heroku"],
-  "image": "heroku/nodejs"
+    "name": "Run Tracker",
+    "description": "A simple web app to save and track runners times and achievements.",
+    "repository": "https://github.com/zachdimitrov/run-tracker",
+    "logo": "https://vectr.com/tmp/aFx4plkDS/c5AjzcBIa.svg",
+    "keywords": ["node", "express", "heroku", "running", "tracker"],
+    "image": "heroku/nodejs"
 }
